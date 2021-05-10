@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.62fe8622.chunk.css",
+    "main.js": "/test/static/js/main.e9ce2042.chunk.js",
+    "main.js.map": "/test/static/js/main.e9ce2042.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.015d119e.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.015d119e.js.map",
+    "static/js/2.2a75aa46.chunk.js": "/test/static/js/2.2a75aa46.chunk.js",
+    "static/js/2.2a75aa46.chunk.js.map": "/test/static/js/2.2a75aa46.chunk.js.map",
+    "static/js/3.e6164b25.chunk.js": "/test/static/js/3.e6164b25.chunk.js",
+    "static/js/3.e6164b25.chunk.js.map": "/test/static/js/3.e6164b25.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/css/main.62fe8622.chunk.css.map": "/test/static/css/main.62fe8622.chunk.css.map",
+    "static/js/2.2a75aa46.chunk.js.LICENSE.txt": "/test/static/js/2.2a75aa46.chunk.js.LICENSE.txt",
+    "static/media/bars-solid.e8db7520.svg": "/test/static/media/bars-solid.e8db7520.svg",
+    "static/media/burger.a264aebc.jpeg": "/test/static/media/burger.a264aebc.jpeg",
+    "static/media/coke.10066204.jpeg": "/test/static/media/coke.10066204.jpeg",
+    "static/media/fries.f7959aff.jpeg": "/test/static/media/fries.f7959aff.jpeg",
+    "static/media/logo.6ce24c58.svg": "/test/static/media/logo.6ce24c58.svg",
+    "static/media/pepsi.6efe5ca9.jpeg": "/test/static/media/pepsi.6efe5ca9.jpeg",
+    "static/media/shopping-cart-solid.d146d6c3.svg": "/test/static/media/shopping-cart-solid.d146d6c3.svg",
+    "static/media/times-solid.ea7c95d7.svg": "/test/static/media/times-solid.ea7c95d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.015d119e.js",
+    "static/js/2.2a75aa46.chunk.js",
+    "static/css/main.62fe8622.chunk.css",
+    "static/js/main.e9ce2042.chunk.js"
+  ]
+}
